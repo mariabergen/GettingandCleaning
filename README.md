@@ -1,9 +1,4 @@
----
-title: "README.md"
-output: html_document
----
-
-README file for the Getting and Cleaning Data course project
+# README file for the Getting and Cleaning Data course project
 
 The script run_analysis.R is done in steps following the directions from the project. 
 
